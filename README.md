@@ -8,9 +8,11 @@
 <div align="left">
 I am a computer engineer specializing in Data Science.
 </div>
+
 <div align="left">
 My main interest is programming systems related to Artificial Intelligence, especially those related to Machine Learning. Specifically, I am fascinated by the development of systems that automate, simplify, and enhance the efficiency of  tasks that require significant human and financial effort.
 </div>
+
 <div align="left">
 My goal is to become an expert in developing solutions using cutting-edge technologies in the field of Artificial Intelligence, as well as to research, discover, and innovate in all areas related to these technologies.
 </div>
@@ -41,8 +43,13 @@ My goal is to become an expert in developing solutions using cutting-edge techno
 <hr >
 
 ### 📊 Stats
-
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JB0linches&show_icons=true&theme=gruvbox) ![GitHub Streak](https://streak-stats.demolab.com?user=JB0linches&theme=gruvbox&border_radius=4.5) 
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=JB0linches&show_icons=true&theme=gruvbox" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://streak-stats.demolab.com?user=JB0linches&theme=gruvbox&border_radius=4.5&layout=compact" /></div>
+</div>
+<!-- ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JB0linches&show_icons=true&theme=gruvbox) ![GitHub Streak](https://streak-stats.demolab.com?user=JB0linches&theme=gruvbox&border_radius=4.5) 
 <!-- BUGEADO: ![Jorge's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JB0linches&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <br />
 <br />
