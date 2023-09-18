@@ -1,5 +1,5 @@
 
-# 👽 Jorge Bolinches 👽 
+# 👾 Jorge Bolinches 👾 
 
 <img src="https://media0.giphy.com/media/JWday3G09ANWLPRAqg/giphy.gif?cid=ecf05e479wk74h2ra82s1f2bjwbh5hzi369yttzbow7oigqv&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="215" align="right"/>
 
@@ -41,7 +41,16 @@ My goal is to become an expert in developing solutions using cutting-edge techno
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JB0linches&show_icons=true&theme=gruvbox) ![GitHub Streak](https://streak-stats.demolab.com?user=JB0linches&theme=gruvbox&border_radius=4.5) 
 <!-- BUGEADO: ![Jorge's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JB0linches&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
+#
 
+### 📈 Featured projects
+
+<a href="https://github.com/JB0linches/SALTbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JB0linches&repo=SALTbot&theme=gruvbox" />
+</a>
+
+
+<br />
 <!--
 **JB0linches/JB0linches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
