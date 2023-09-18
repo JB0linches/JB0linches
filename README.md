@@ -44,10 +44,10 @@ My goal is to become an expert in developing solutions using cutting-edge techno
 
 ### 📊 Stats
 <div class='container'>
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=JB0linches&show_icons=true&theme=gruvbox" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=JB0linches&show_icons=true&theme=radical" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://streak-stats.demolab.com?user=JB0linches&theme=gruvbox&border_radius=4.5&layout=compact" /></div>
+<img style="height: auto; width: 42%;" class="img" src="https://streak-stats.demolab.com?user=JB0linches&theme=radical&border_radius=4.5&layout=compact" /></div>
 </div>
 <!-- ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JB0linches&show_icons=true&theme=gruvbox) ![GitHub Streak](https://streak-stats.demolab.com?user=JB0linches&theme=gruvbox&border_radius=4.5) 
 <!-- BUGEADO: ![Jorge's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JB0linches&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
@@ -59,7 +59,7 @@ My goal is to become an expert in developing solutions using cutting-edge techno
 ### 📈 Featured projects
 
 <a href="https://github.com/JB0linches/SALTbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JB0linches&repo=SALTbot&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JB0linches&repo=SALTbot&theme=radical" />
 </a>
 
 <br />
