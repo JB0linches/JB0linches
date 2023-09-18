@@ -44,7 +44,7 @@ My goal is to become an expert in developing solutions using cutting-edge techno
 
 ### 📊 Stats
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=JB0linches&show_icons=true&theme=gruvbox" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=JB0linches&show_icons=true&theme=gruvbox" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://streak-stats.demolab.com?user=JB0linches&theme=gruvbox&border_radius=4.5&layout=compact" /></div>
