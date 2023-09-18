@@ -15,6 +15,8 @@ My goal is to become an expert in developing solutions using cutting-edge techno
 
 ---
 
+#
+
 ### 💻 Tech Stack
 
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />     
@@ -32,9 +34,10 @@ My goal is to become an expert in developing solutions using cutting-edge techno
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
+<br />
 
 
-#
+
 
 ---
 
@@ -42,8 +45,8 @@ My goal is to become an expert in developing solutions using cutting-edge techno
 
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JB0linches&show_icons=true&theme=gruvbox) ![GitHub Streak](https://streak-stats.demolab.com?user=JB0linches&theme=gruvbox&border_radius=4.5) 
 <!-- BUGEADO: ![Jorge's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JB0linches&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
-#
+<br />
+<br />
 
 ---
 
@@ -53,7 +56,7 @@ My goal is to become an expert in developing solutions using cutting-edge techno
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JB0linches&repo=SALTbot&theme=gruvbox" />
 </a>
 
-
+<br />
 <br />
 <!--
 **JB0linches/JB0linches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
