@@ -5,12 +5,15 @@
 
 **`Data Scientist/Software Developer`**
 
+<div align="left">
 I am a computer engineer specializing in Data Science.
-
-My main interest is programming systems related to Artificial Intelligence, especially those related to Machine Learning. Specifically, I am fascinated by the development of systems that automate, simplify, and enhance the efficiency of tasks that require significant human and financial effort.
-
+</div>
+<div align="left">
+My main interest is programming systems related to Artificial Intelligence, especially those related to Machine Learning. Specifically, I am fascinated by the development of systems that automate, simplify, and enhance the efficiency of  tasks that require significant human and financial effort.
+</div>
+<div align="left">
 My goal is to become an expert in developing solutions using cutting-edge technologies in the field of Artificial Intelligence, as well as to research, discover, and innovate in all areas related to these technologies.
-
+</div>
  
 
 ---
