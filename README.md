@@ -38,8 +38,7 @@ My goal is to become an expert in developing solutions using cutting-edge techno
 
 
 
-
----
+<hr >
 
 ### 📊 Stats
 
@@ -48,7 +47,7 @@ My goal is to become an expert in developing solutions using cutting-edge techno
 <br />
 <br />
 
----
+<hr />
 
 ### 📈 Featured projects
 
