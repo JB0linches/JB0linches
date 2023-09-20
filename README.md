@@ -64,6 +64,25 @@ My goal is to become an expert in developing solutions using cutting-edge techno
 
 <br />
 <br />
+
+<details>
+ <summary><h3>👨‍💻 Jorge's Coding Journey</h3></summary>
+   Hi, I am a student of the Masters Degree of Data Science at UPM as well as a part time researcher at the Ontology Engineering Group.
+
+I have nurtured a deep fascination for Artificial Intelligence since a young age, fueled by my interest in cinema with movies such as Blade Runner, Terminator, and The Matrix. My enthusiasm for technology led me to assemble my own computer from spare parts during my teenage years, saving to upgrade and expand it from the age of 14 to 16.
+
+I pursued my passion further by enrolling in the Universidad Politécnica de Madrid, where I graduated in the degree of Computer Science. My academic journey sparked a profound interest in the subjects of Machine Learning and Deep Learning, as well as knowledge graphs and other forms of machine-readable knowledge representation.
+
+During my academic tenure, I had the privilege of interning at AlamoConsulting, an experience that taught me the insights into the consulting industry. I developed my ability to comprehend client requirements and anticipate market trends in the software sector.
+
+Subsequently, I was fortunate to join the Department of Artificial Intelligence at UPM, specifically the Ontology Engineering Group. My current role focuses on developing tools for Knowledge Graphs, with an emphasis on enhancing Wikidata. Working in this academic environment has provided me with the opportunity to collaborate with exceptional minds in the AI field as well as enabling me to understand academic research and keep up with the cutting-edge technologies that drive innovation.
+
+In addition to my work with OEG, I pursued a Master's degree in Data Science at UPM. This program deepened my understanding of data collection, processing, storage, and utilization, enriching my skill set and broadening my expertise.
+
+A culmination of my research internship at OEG and my Master's thesis resulted in the creation of SALTbot, the Software and Article Linker Toolbot. This software automates the linking process in Knowledge Graphs, connecting scholarly articles with the scientific software tools they reference. SALTbot not only enhances the visibility of scholarly articles but also improves software explainability.
+
+SALTbot was showcased and accepted as a workshop presentation at ISWC's Wikidata workshop. I am currently dedicated to refining the bot's user-friendliness and preparing a comprehensive scholarly article. Simultaneously, I am working towards the completion and defense of my Master's thesis.
+
 <!--
 **JB0linches/JB0linches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="left" alt="Numpy" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
